@@ -4,5 +4,5 @@
 Colab version of MDX23 algorithm from [MVSEP.COM](https://www.mvsep.com)
 
 Credits:
-* [https://github.com/ZFTurbo/MVSEP-MDX23-music-separation-model](https://github.com/ZFTurbo/MVSEP-MDX23-music-separation-model)\n",
-* Models by [Demucs](https://github.com/facebookresearch/demucs) & Kimberley Jensen"
+* [https://github.com/ZFTurbo/MVSEP-MDX23-music-separation-model](https://github.com/ZFTurbo/MVSEP-MDX23-music-separation-model)
+* Models by [Demucs](https://github.com/facebookresearch/demucs) & Kimberley Jensen
